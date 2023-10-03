@@ -1,0 +1,428 @@
+Word-Id,Word,Category
+1001,Amphitheater,Arts & Entertainment
+1002,Aquarium,Recreation & Outdoors
+1003,Arcade,Arts & Entertainment
+1004,Art Gallery,Residence
+1005,Bowling Alley,Residence
+1006,Casino,Arts & Entertainment
+1007,Circus,Arts & Entertainment
+1008,Comedy Club,College & University
+1009,Concert Hall,Residence
+1010,Country Dance Club,College & University
+1011,Disc Golf,Recreation & Outdoors
+1012,Exhibit,Recreation & Outdoors
+1013,General Entertainment,Arts & Entertainment
+1014,Go Kart Track,Nightlife Spot
+1015,Historic Site,Shop & Service
+1016,Karaoke Box,Nightlife Spot
+1017,Laser Tag,Nightlife Spot
+1018,Memorial Site,Shop & Service
+1019,Mini Golf,Recreation & Outdoors
+1020,Movie Theater,Arts & Entertainment
+1021,Museum,College & University
+1022,Music Venue,Professional & other places
+1023,Pachinko Parlor,Residence
+1024,Performing Arts Venue,Professional & other places
+1025,Pool Hall,Residence
+1026,Public Art,Arts & Entertainment
+1027,Racecourse,Travel & Transport
+1028,Racetrack,Arts & Entertainment
+1029,Roller Rink,Recreation & Outdoors
+1030,Salsa Club,College & University
+1031,Samba School,College & University
+1032,Stadium,College & University
+1033,Theme Park,Recreation & Outdoors
+1034,Tour Provider,Shop & Service
+1035,Water Park,Recreation & Outdoors
+1036,Zoo,College & University
+2001,College Academic Building,Residence
+2002,College Administrative Building,Residence
+2003,College Auditorium,Residence
+2004,College Bookstore,College & University
+2005,College Cafeteria,Food
+2006,College Classroom,College & University
+2007,College Gym,Recreation & Outdoors
+2008,College Lab,College & University
+2009,College Library,College & University
+2010,College Quad,Nightlife Spot
+2011,College Rec Center,Shop & Service
+2012,College Residence Hall,Residence
+2013,College Stadium,College & University
+2014,College Theater,Arts & Entertainment
+2015,Community College,College & University
+2016,Fraternity House,Residence
+2017,General College & University,College & University
+2018,Law School,College & University
+2019,Medical School,College & University
+2020,Sorority House,Residence
+2021,Student Center,Shop & Service
+2022,Trade School,College & University
+2023,University,College & University
+4001,Afghan Restaurant,Food
+4002,African Restaurant,Food
+4003,American Restaurant,Food
+4004,Asian Restaurant,Food
+4005,Australian Restaurant,Food
+4006,Austrian Restaurant,Food
+4007,BBQ Joint,Travel & Transport
+4008,Bagel Shop,Residence
+4009,Bakery,Food
+4010,Belgian Restaurant,Food
+4011,Bistro,Food
+4012,Breakfast Spot,Nightlife Spot
+4013,Bubble Tea Shop,Residence
+4014,Buffet,Food
+4015,Burger Joint,Travel & Transport
+4016,Cafeteria,Food
+4017,Cafe,Food
+4018,Cajun / Creole Restaurant,Food
+4019,Caribbean Restaurant,Food
+4020,Caucasian Restaurant,Food
+4021,Coffee Shop,Residence
+4022,Comfort Food Restaurant,Food
+4023,Creperie,Professional & other places
+4024,Czech Restaurant,Food
+4025,Deli / Bodega,Food
+4026,Dessert Shop,Residence
+4027,Diner,Food
+4028,Donut Shop,Residence
+4029,Dumpling Restaurant,Food
+4030,Dutch Restaurant,Food
+4031,Eastern European Restaurant,Food
+4032,English Restaurant,Food
+4033,Falafel Restaurant,Food
+4034,Fast Food Restaurant,Food
+4035,Fish & Chips Shop,Residence
+4036,Fondue Restaurant,Food
+4037,Food Court,College & University
+4038,Food Stand,Nightlife Spot
+4039,Food Truck,Travel & Transport
+4040,French Restaurant,Food
+4041,Fried Chicken Joint,Travel & Transport
+4042,Friterie,Category unknown
+4043,Gastropub,Food
+4044,German Restaurant,Food
+4045,Gluten-free Restaurant,Category unknown
+4046,Greek Restaurant,Food
+4047,Halal Restaurant,Food
+4048,Hawaiian Restaurant,Food
+4049,Hot Dog Joint,Travel & Transport
+4050,Hungarian Restaurant,Food
+4051,Indian Restaurant,Food
+4052,Irish Pub,Food
+4053,Italian Restaurant,Food
+4054,Jewish Restaurant,Food
+4055,Juice Bar,Food
+4056,Kebab Restaurant,Food
+4057,Latin American Restaurant,Food
+4058,Mac & Cheese Joint,Travel & Transport
+4059,Mediterranean Restaurant,Food
+4060,Mexican Restaurant,Food
+4061,Middle Eastern Restaurant,Food
+4062,Modern European Restaurant,Food
+4063,Molecular Gastronomy Restaurant,Food
+4064,Pakistani Restaurant,Food
+4065,Cafe,Food
+4066,Pizza Place,Professional & other places
+4067,Polish Restaurant,Food
+4068,Portuguese Restaurant,Food
+4069,Poutine Place,Professional & other places
+4070,Restaurant,Food
+4071,Russian Restaurant,Food
+4072,Salad Place,Professional & other places
+4073,Sandwich Place,Professional & other places
+4074,Scandinavian Restaurant,Food
+4075,Scottish Restaurant,Food
+4076,Seafood Restaurant,Food
+4077,Slovak Restaurant,Category unknown
+4078,Snack Place,Professional & other places
+4079,Soup Place,Professional & other places
+4080,Southern / Soul Food Restaurant,Food
+4081,Spanish Restaurant,Food
+4082,Sri Lankan Restaurant,Food
+4083,Steakhouse,Food
+4084,Swiss Restaurant,Food
+4085,Tea Room,Residence
+4086,Theme Restaurant,Food
+4087,Turkish Restaurant,Food
+4088,Ukrainian Restaurant,Food
+4089,Vegetarian / Vegan Restaurant,Food
+4090,Wings Joint,Travel & Transport
+5001,Bar,Food
+5002,Brewery,College & University
+5003,Lounge,Arts & Entertainment
+5004,Night Market,Nightlife Spot
+5005,Nightclub,Arts & Entertainment
+5006,Other Nightlife,Arts & Entertainment
+5007,Speakeasy,Professional & other places
+5008,Strip Club,College & University
+6001,Athletics & Sports,Arts & Entertainment
+6002,Bathing Area,Professional & other places
+6003,Bay,Nightlife Spot
+6004,Beach,Recreation & Outdoors
+6005,Bike Trail,Recreation & Outdoors
+6006,Botanical Garden,Recreation & Outdoors
+6007,Bridge,Travel & Transport
+6008,Campground,Residence
+6009,Canal Lock,Nightlife Spot
+6010,Canal,Travel & Transport
+6011,Castle,Residence
+6012,Cave,Recreation & Outdoors
+6013,Cemetery,Residence
+6014,Dive Spot,Nightlife Spot
+6015,Dog Run,Shop & Service
+6016,Farm,Food
+6017,Field,College & University
+6018,Fishing Spot,Nightlife Spot
+6019,Forest,Recreation & Outdoors
+6020,Fountain,Recreation & Outdoors
+6021,Garden,Recreation & Outdoors
+6022,Gun Range,Shop & Service
+6023,Harbor / Marina,Travel & Transport
+6024,Hot Spring,Recreation & Outdoors
+6025,Indoor Play Area,Professional & other places
+6026,Island,Professional & other places
+6027,Lake,Recreation & Outdoors
+6028,Lighthouse,Residence
+6029,Mountain Hut,Residence
+6030,Mountain,Recreation & Outdoors
+6031,National Park,Recreation & Outdoors
+6032,Nature Preserve,Recreation & Outdoors
+6033,Other Great Outdoors,Recreation & Outdoors
+6034,Palace,Residence
+6035,Park,Recreation & Outdoors
+6036,Pedestrian Plaza,College & University
+6037,Playground,Recreation & Outdoors
+6038,Plaza,College & University
+6039,Pool,Recreation & Outdoors
+6040,Rafting,Recreation & Outdoors
+6041,Recreation Center,Shop & Service
+6042,Reservoir,Residence
+6043,River,Recreation & Outdoors
+6044,Rock Climbing Spot,Nightlife Spot
+6045,Scenic Lookout,Nightlife Spot
+6046,Sculpture Garden,Recreation & Outdoors
+6047,Ski Area,Professional & other places
+6048,Stables,Residence
+6049,States & Municipalities,Professional & other places
+6050,Summer Camp,Residence
+6051,Trail,Recreation & Outdoors
+6052,Tree,Recreation & Outdoors
+6053,Vineyard,Residence
+6054,Volcano,Recreation & Outdoors
+6055,Waterfall,Recreation & Outdoors
+6056,Waterfront,Arts & Entertainment
+6057,Well,Arts & Entertainment
+7001,Animal Shelter,Food
+7002,Auditorium,Residence
+7003,Ballroom,Arts & Entertainment
+7004,Building,Residence
+7005,Business Center,Shop & Service
+7006,Club House,Residence
+7007,Community Center,Shop & Service
+7008,Convention Center,Shop & Service
+7009,Cultural Center,Shop & Service
+7010,Distillery,Residence
+7011,Distribution Center,Shop & Service
+7012,Event Space,Professional & other places
+7013,Factory,Residence
+7014,Fair,Arts & Entertainment
+7015,Funeral Home,Residence
+7016,Government Building,Residence
+7017,Industrial Estate,Residence
+7018,Laboratory,College & University
+7019,Library,College & University
+7020,Medical Center,Shop & Service
+7021,Military Base,Shop & Service
+7022,Non-Profit,Category unknown
+7023,Observatory,College & University
+7024,Office,Residence
+7025,Parking,Travel & Transport
+7026,Post Office,Residence
+7027,Prison,College & University
+7028,Radio Station,Residence
+7029,Recruiting Agency,Shop & Service
+7030,School,College & University
+7031,Social Club,College & University
+7032,Spiritual Center,Shop & Service
+7033,TV Station,Residence
+7034,Voting Booth,Nightlife Spot
+7035,Warehouse,Food
+7036,Wedding Hall,Residence
+7037,Winery,College & University
+8001,Assisted Living,Residence
+8002,Home (private),Category unknown
+8003,Housing Development,Travel & Transport
+8004,Residential Building (Apartment / Condo),Category unknown
+8005,Trailer Park,Recreation & Outdoors
+9001,ATM,Arts & Entertainment
+9002,Adult Boutique,Arts & Entertainment
+9003,Antique Shop,Residence
+9004,Arts & Crafts Store,Residence
+9005,Astrologer,Arts & Entertainment
+9006,Auto Dealership,Residence
+9007,Auto Garage,Residence
+9008,Auto Workshop,Residence
+9009,Automotive Shop,Residence
+9010,Baby Store,Residence
+9011,Bank,College & University
+9012,Bath House,Residence
+9013,Batik Shop,Residence
+9014,Betting Shop,Residence
+9015,Big Box Store,Residence
+9016,Bike Shop,Residence
+9017,Board Shop,Residence
+9018,Bookstore,College & University
+9019,Bridal Shop,Residence
+9020,Business Service,Shop & Service
+9021,Camera Store,Residence
+9022,Candy Store,Residence
+9023,Car Wash,Food
+9024,Carpet Store,Residence
+9025,Check Cashing Service,Shop & Service
+9026,Child Care Service,Shop & Service
+9027,Chocolate Shop,Residence
+9028,Clothing Store,Residence
+9029,Comic Shop,Residence
+9030,Construction & Landscaping,Recreation & Outdoors
+9031,Convenience Store,Residence
+9032,Cosmetics Shop,Residence
+9033,Costume Shop,Residence
+9034,Credit Union,College & University
+9035,Currency Exchange,Shop & Service
+9036,Department Store,Residence
+9037,Design Studio,Arts & Entertainment
+9038,Discount Store,Residence
+9039,Dive Shop,Residence
+9040,Drugstore,Food
+9041,Dry Cleaner,Travel & Transport
+9042,EV Charging Station,Residence
+9043,Electronics Store,Residence
+9044,Entertainment Service,Shop & Service
+9045,Event Service,Shop & Service
+9046,Fabric Shop,Residence
+9047,Film Studio,Arts & Entertainment
+9048,Financial or Legal Service,Shop & Service
+9049,Fireworks Store,Residence
+9050,Fishing Store,Residence
+9051,Flea Market,Nightlife Spot
+9052,Floating Market,Nightlife Spot
+9053,Flower Shop,Residence
+9054,Food & Drink Shop,Residence
+9055,Frame Store,Residence
+9056,Fruit & Vegetable Store,Residence
+9057,Furniture / Home Store,Residence
+9058,Gaming Cafe,Food
+9059,Garden Center,Shop & Service
+9060,Gas Station,Residence
+9061,Gift Shop,Residence
+9062,Gun Shop,Residence
+9063,Hardware Store,Residence
+9064,Health & Beauty Service,Shop & Service
+9065,Herbs & Spices Store,Residence
+9066,Hobby Shop,Residence
+9067,Home Service,Shop & Service
+9068,Hunting Supply,Travel & Transport
+9069,IT Services,Shop & Service
+9070,Internet Cafe,Food
+9071,Jewelry Store,Residence
+9072,Knitting Store,Residence
+9073,Laundromat,Residence
+9074,Laundry Service,Shop & Service
+9075,Lawyer,College & University
+9076,Leather Goods Store,Residence
+9077,Locksmith,Shop & Service
+9078,Lottery Retailer,Food
+9079,Luggage Store,Residence
+9080,Marijuana Dispensary,Residence
+9081,Market,Nightlife Spot
+9082,Massage Studio,Arts & Entertainment
+9083,Mattress Store,Residence
+9084,Miscellaneous Shop,Residence
+9085,Mobile Phone Shop,Residence
+9086,Mobility Store,Residence
+9087,Motorcycle Shop,Residence
+9088,Music Store,Residence
+9089,Nail Salon,Residence
+9090,Newsstand,Food
+9091,Optical Shop,Residence
+9092,Other Repair Shop,Residence
+9093,Outdoor Supply Store,Residence
+9094,Outlet Mall,Arts & Entertainment
+9095,Outlet Store,Residence
+9096,Paper / Office Supplies Store,Residence
+9097,Pawn Shop,Residence
+9098,Perfume Shop,Residence
+9099,Pet Service,Shop & Service
+9100,Pet Store,Residence
+9101,Pharmacy,College & University
+9102,Photography Lab,College & University
+9103,Photography Studio,Arts & Entertainment
+9104,Piercing Parlor,Residence
+9105,Pop-Up Shop,Category unknown
+9106,Print Shop,Residence
+9107,Public Bathroom,Residence
+9108,Real Estate Office,Residence
+9109,Record Shop,Residence
+9110,Recording Studio,Arts & Entertainment
+9111,Recycling Facility,Residence
+9112,Rental Service,Shop & Service
+9113,Salon / Barbershop,Residence
+9114,Shipping Store,Residence
+9115,Shoe Repair,Shop & Service
+9116,Shopping Mall,Arts & Entertainment
+9117,Shopping Plaza,College & University
+9118,Ski Shop,Residence
+9119,Smoke Shop,Residence
+9120,Smoothie Shop,Residence
+9121,Souvenir Shop,Residence
+9122,Spa,Arts & Entertainment
+9123,Sporting Goods Shop,Residence
+9124,Stationery Store,Residence
+9125,Storage Facility,Residence
+9126,Supplement Shop,Residence
+9127,Tailor Shop,Residence
+9128,Tanning Salon,Residence
+9129,Tattoo Parlor,Residence
+9130,Thrift / Vintage Store,Residence
+9131,Toy / Game Store,Residence
+9132,Travel Agency,Shop & Service
+9133,Used Bookstore,College & University
+9134,Vape Store,Category unknown
+9135,Video Game Store,Residence
+9136,Video Store,Residence
+9137,Warehouse Store,Residence
+9138,Watch Shop,Residence
+10001,Airport,Travel & Transport
+10002,Baggage Locker,Residence
+10003,Bike Rental / Bike Share,Food
+10004,Boat Rental,Arts & Entertainment
+10005,Boat or Ferry,Travel & Transport
+10006,Border Crossing,Travel & Transport
+10007,Bus Station,Residence
+10008,Bus Stop,Nightlife Spot
+10009,Cable Car,Residence
+10010,Cruise,Arts & Entertainment
+10011,General Travel,Travel & Transport
+10012,Heliport,Travel & Transport
+10013,Hotel,Residence
+10014,Intersection,Residence
+10015,Light Rail Station,Residence
+10016,Metro Station,Residence
+10017,Moving Target,Nightlife Spot
+10018,Pier,Recreation & Outdoors
+10019,Port,Travel & Transport
+10020,RV Park,Recreation & Outdoors
+10021,Rental Car Location,Professional & other places
+10022,Rest Area,Professional & other places
+10023,Road,Travel & Transport
+10024,Taxi Stand,Nightlife Spot
+10025,Taxi,Travel & Transport
+10026,Toll Booth,Nightlife Spot
+10027,Toll Plaza,College & University
+10028,Tourist Information Center,Shop & Service
+10029,Train Station,Residence
+10030,Tram Station,Residence
+10031,Transportation Service,Shop & Service
+10032,Travel Lounge,Arts & Entertainment
+10033,Tunnel,Travel & Transport
